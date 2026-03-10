@@ -3,9 +3,8 @@
  📌 Project Overview
 This project applies advanced boosting algorithms (XGBoost and LightGBM) to predict passenger survival on the Titanic dataset.
 
-The goal is to compare model performance and understand how boosting techniques improve classification accuracy.
+The objective of this assignment is to preprocess the dataset, train both models, evaluate their performance, and compare their results.
 
----
 
  📂 Dataset
 - Titanic_train.csv
@@ -36,12 +35,13 @@ Target variable:
 - LightGBM Classifier
 
  🛠 Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- LightGBM
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- lightgbm
+- matplotlib
+- seaborn
 
 
 
